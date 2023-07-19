@@ -270,7 +270,7 @@ p.wag_Custom_Css span {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 106%;
     height: 100%;
     backdrop-filter: brightness(0.5);
     border-radius: 16px;
@@ -399,6 +399,7 @@ p.wag_Custom_Css span {
     font-weight: 600;
     list-style: none;
     margin: 1rem 1rem;
+    cursor: pointer;
 }
 
 .social_Menu ul {
@@ -409,6 +410,7 @@ p.wag_Custom_Css span {
 .social_Menu ul li {
     list-style: none;
     margin: 1rem 1rem;
+    cursor: pointer;
 }
 
 .tc_Menu ul {
@@ -422,7 +424,8 @@ p.wag_Custom_Css span {
     color: rgba(255, 255, 255, 0.60);
     font-size: 16px;
     font-weight: 500;
-}
+    cursor: pointer;
+} 
 p.footer_Txt {
     color: rgba(255, 255, 255, 0.60);
     font-size: 16px;
